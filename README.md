@@ -2,7 +2,7 @@
 
 This is a repo is for the oneFc assignment probs:
 
-## Probs:
+## Assignment Problmes:
 1. SQL: 
 
 
